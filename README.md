@@ -1,55 +1,127 @@
-# 🦇 Pixel Bat Animation
+<div align="center">
 
-A clean, retro-style **pixel art bat animation** built with **HTML + CSS**.  
-The bat is drawn using `box-shadow` pixels and animated with CSS keyframes for a smooth looping effect.
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0a2e,50:7c3aed,100:f472b6&height=200&section=header&text=🦇%20Pixel%20Bat%20Animation&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Pure%20HTML%20%2B%20CSS%20Pixel%20Art%20Magic&descAlignY=58&descSize=18&descColor=e0d7ff" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=✨+CSS+box-shadow+pixel+art...;🎨+Infinite+looping+animations...;🦇+One+element.+Full+magic." />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Colorful Badges -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![No JS](https://img.shields.io/badge/No%20JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pixel Art](https://img.shields.io/badge/Pixel%20Art-7C3AED?style=for-the-badge&logo=artstation&logoColor=white)
+![Pure CSS](https://img.shields.io/badge/Pure%20CSS%20Only-F472B6?style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Preview
+
+<div align="center">
+
+> A compact pixel bat appears in the center of the page  
+> and animates **continuously** using CSS only — no JavaScript, no libraries.
+
+</div>
+
+---
 
 ## ✨ Features
 
-- Pure **HTML/CSS** animation
-- **Pixel-art style** bat illustration
-- Smooth infinite loop using `@keyframes`
-- Lightweight and fast
-- Easy to customize for your own creative projects
+<div align="center">
+
+| Feature | Description |
+|--------|-------------|
+| 🎨 **Pixel Art** | Bat drawn entirely with `box-shadow` pixels |
+| ♾️ **Infinite Loop** | Smooth animation using `@keyframes` |
+| ⚡ **Lightweight** | Zero dependencies, pure HTML + CSS |
+| 🌙 **Spooky Vibes** | Dark background, glowing effects |
+| 🛠️ **Customizable** | Easy to tweak colors, speed & size |
+
+</div>
+
+---
 
 ## 📁 Project Structure
 
 ```txt
-├── index.html
-└── style.css
+pixel-bat-animation/
+├── index.html       ← Main HTML file
+└── style.css        ← All animation styles
 ```
 
-## 🚀 Preview
-
-A compact pixel bat appears in the center of the page and animates continuously using CSS only.
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- CSS `box-shadow` pixel art
-- Keyframe animation
+---
 
 ## ▶️ How to Run
 
-1. Download or clone this repository.
-2. Open `index.html` in your browser.
-3. Enjoy the animation.
+```bash
+# 1. Clone this repo
+git clone https://github.com/your-username/pixel-bat-animation
+
+# 2. Open in browser
+open index.html
+```
+
+> No build tools. No npm. Just open and enjoy. 🦇
+
+---
+
+## 🛠️ Built With
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS Keyframes](https://img.shields.io/badge/-CSS%20Keyframes-F472B6?style=flat-square)
+![box--shadow](https://img.shields.io/badge/-box--shadow%20art-7C3AED?style=flat-square)
+
+</div>
+
+---
 
 ## 🎨 Customization Ideas
 
-You can easily make it more unique by changing:
+```css
+/* 🎨 Change bat color */
+box-shadow: ... 0 6px #7c3aed; /* purple bat */
 
-- Bat colors
-- Scale size
-- Background style
-- Animation speed
-- Add glow, moon, stars, or spooky effects
+/* ⚡ Change animation speed */
+animation: wingFlap 0.3s ease-in-out infinite; /* faster flap */
+
+/* 🌙 Add moon glow */
+background: radial-gradient(circle, #ffe082, #ffcc02);
+box-shadow: 0 0 40px #ffd54f88;
+
+/* 💜 Add text glow */
+text-shadow: 0 0 10px #a855f7, 0 0 20px #7c3aed;
+```
+
+> You can also add: **Stars ⭐, Moon 🌙, Lightning ⚡, Fog effect, Color-cycling bat**
+
+---
 
 ## 📌 Notes
 
-This project uses a single `.bat` element and builds the full image through CSS pixel placement.  
-It is a nice example of how powerful CSS can be for creative artwork and motion design.
+This project uses a **single `.bat` element** and builds the full illustration  
+through **CSS pixel placement** — showcasing how powerful pure CSS can be  
+for creative artwork and motion design.
 
-## 🙌 Author
+---
 
-Created for creative front-end animation practice.
+<div align="center">
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:7c3aed,100:1a0a2e&height=120&section=footer&animation=fadeIn" />
+
+<!-- Animated Footer Text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Made+with+💜+by+CodeVoultX+Bots;support+%40codesXSupport" />
+
+</div>
